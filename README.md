@@ -63,7 +63,7 @@ Make sure you have Python installed. It's recommended to use a virtual environme
 6. Open the `Exploratory_Data_Analysis.ipynb` notebook and run the cells to see the exploratory data analysis and visualizations.
 
 ## Project Documents
-The `project_documents` directory contains detailed documentation about different aspects of the project:
+The `project_documents` directory contains detailed documentation about different aspects of the project. You can navigate through the documents by visiting the [Project Documents Index](project_documents/index.md).
 
 - **Discussion_of_the_dataset.md**: Discusses the source of the data, key attributes, and goals for working with the data.
 - **Sketching_your_data.md**: Contains sketches and preliminary design ideas for visualizing the data.
